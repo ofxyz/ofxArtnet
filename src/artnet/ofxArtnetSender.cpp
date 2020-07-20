@@ -57,7 +57,6 @@ void ofxArtnetSender::sendArtnet(const ofxArtnetMessage& message)
 	}
 	else
 	{
-		//_data‚ğì¬‚µ‚Äsend
 		sendData(message);
 	}
 }
